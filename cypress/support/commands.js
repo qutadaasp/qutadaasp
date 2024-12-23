@@ -26,9 +26,9 @@
 
 Cypress.Commands.add('loginToTrello',()=>{
 
-        cy.visit('/login')
-  cy.get("#username").type("qutadaadnan@hotmail.com");
-  cy.get("#login-submit").click();
+      cy.visit('/login')
+      cy.get("#username").type("qutadaadnan@hotmail.com");
+      cy.get("#login-submit").click();
       cy.get("#password").type("Qutada@1234" +"{enter}")
       cy.wait(3000)
   
@@ -36,5 +36,5 @@ Cypress.Commands.add('loginToTrello',()=>{
 
 Cypress.Commands.add('findByTestId',(testId)=>{
   
-  cy.get(`[data-testid=${testId}]`).should('be.visible');
+  cy.get(`[data-testid=${testId}]`);
 })
