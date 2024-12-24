@@ -25,12 +25,12 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
 Cypress.Commands.add('loginToTrello',()=>{
-
+      cy.intercept("https://trello.com/1/resources/templates/categories").as("categories")
       cy.visit('/login')
       cy.get("#username").type("qutadaadnan@hotmail.com");
       cy.get("#login-submit").click();
       cy.get("#password").type("Qutada@1234" +"{enter}")
-      cy.wait(3000)
+      cy.wait("@categories")
   
 })
 
