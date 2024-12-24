@@ -43,5 +43,6 @@ Then("The card will be created",()=>{
 })
 
 after(()=>{
+    cy.wait(3000)
     datautil.deleteboard(boardid)
 })
