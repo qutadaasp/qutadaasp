@@ -34,11 +34,13 @@ Given("The user navigate to the board",()=>{
  createcardaction.clickonAddacardbutton()
  createcardaction.Typeincardinputfield(cardname)
  createcardaction.clickonAddcardbutton()
+ cy.screenshot({capture:"fullPage"})
 })
 //quick-card-editor-archive
 When("Move card to archive",()=>{
    
     DeletecardAction.Deletecard(cardname)
+  
     
 })
 Then("The card will delete",()=>{

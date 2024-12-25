@@ -5,6 +5,10 @@ module.exports = defineConfig({
   chromeWebSecurity : false,
    specPattern: "**/*.feature",
    baseUrl:"http://trello.com",
+   screenshotOnRunFailure : true,
+   screenshotsFolder :"Test1",
+   trashAssetsBeforeRuns:true,
+
    setupNodeEvents(on, config) {
      on("file:preprocessor", cucumber());
    },
