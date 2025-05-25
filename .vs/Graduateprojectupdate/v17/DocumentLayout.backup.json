@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Graduateprojectupdate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1200E37B-CC84-477C-8F89-199546A20888}|Graduateprojectupdate\\tasks.csproj|c:\\users\\pc\\source\\repos\\graduateprojectupdate\\graduateprojectupdate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1200E37B-CC84-477C-8F89-199546A20888}|Graduateprojectupdate\\tasks.csproj|solutionrelative:graduateprojectupdate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1200E37B-CC84-477C-8F89-199546A20888}|Graduateprojectupdate\\tasks.csproj|c:\\users\\pc\\source\\repos\\graduateprojectupdate\\graduateprojectupdate\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1200E37B-CC84-477C-8F89-199546A20888}|Graduateprojectupdate\\tasks.csproj|solutionrelative:graduateprojectupdate\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1200E37B-CC84-477C-8F89-199546A20888}|Graduateprojectupdate\\tasks.csproj|c:\\users\\pc\\source\\repos\\graduateprojectupdate\\graduateprojectupdate\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1200E37B-CC84-477C-8F89-199546A20888}|Graduateprojectupdate\\tasks.csproj|solutionrelative:graduateprojectupdate\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1200E37B-CC84-477C-8F89-199546A20888}|Graduateprojectupdate\\tasks.csproj|c:\\users\\pc\\source\\repos\\graduateprojectupdate\\graduateprojectupdate\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1200E37B-CC84-477C-8F89-199546A20888}|Graduateprojectupdate\\tasks.csproj|solutionrelative:graduateprojectupdate\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Graduateprojectupdate\\Graduateprojectupdate\\Program.cs",
+              "RelativeDocumentMoniker": "Graduateprojectupdate\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Graduateprojectupdate\\Graduateprojectupdate\\Program.cs",
+              "RelativeToolTip": "Graduateprojectupdate\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:39:37.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Graduateprojectupdate\\Graduateprojectupdate\\Models\\ApplicationDBcontext.cs",
+              "RelativeDocumentMoniker": "Graduateprojectupdate\\Models\\ApplicationDBcontext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Graduateprojectupdate\\Graduateprojectupdate\\Models\\ApplicationDBcontext.cs",
+              "RelativeToolTip": "Graduateprojectupdate\\Models\\ApplicationDBcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:56:30.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Graduateprojectupdate\\Graduateprojectupdate\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Graduateprojectupdate\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Graduateprojectupdate\\Graduateprojectupdate\\Models\\Blog.cs",
+              "RelativeToolTip": "Graduateprojectupdate\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:58:36.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Graduateprojectupdate\\Graduateprojectupdate\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Graduateprojectupdate\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Graduateprojectupdate\\Graduateprojectupdate\\Models\\User.cs",
+              "RelativeToolTip": "Graduateprojectupdate\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:57:01.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

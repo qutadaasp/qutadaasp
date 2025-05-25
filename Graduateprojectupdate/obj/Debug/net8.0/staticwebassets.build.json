@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iKXEqHcCTJjR9lLvBwARkrwltynVlxPFyP0p165ysoo=",
+  "Source": "tasks",
+  "BasePath": "_content/tasks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
