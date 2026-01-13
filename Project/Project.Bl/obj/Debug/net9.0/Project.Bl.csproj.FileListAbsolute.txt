@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\bin\Debug\net9.0\Project.Bl.deps.json
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\bin\Debug\net9.0\Project.Bl.dll
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\bin\Debug\net9.0\Project.Bl.pdb
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\bin\Debug\net9.0\Project.DAL.dll
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\bin\Debug\net9.0\Project.DAL.pdb
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\obj\Debug\net9.0\Project.Bl.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\obj\Debug\net9.0\Project.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\obj\Debug\net9.0\Project.Bl.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\obj\Debug\net9.0\Project.Bl.AssemblyInfo.cs
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\obj\Debug\net9.0\Project.Bl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\obj\Debug\net9.0\Project.Bl.csproj.Up2Date
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\obj\Debug\net9.0\Project.Bl.dll
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\obj\Debug\net9.0\refint\Project.Bl.dll
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\obj\Debug\net9.0\Project.Bl.pdb
+C:\Users\PC\Documents\Projects asp11\Project\Project.Bl\obj\Debug\net9.0\ref\Project.Bl.dll

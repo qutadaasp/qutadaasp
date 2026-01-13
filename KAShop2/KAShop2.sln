@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAShop2", "KAShop2\KAShop2.csproj", "{3BC25504-0A6C-45D1-8D61-C5EECF348F7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC25504-0A6C-45D1-8D61-C5EECF348F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC25504-0A6C-45D1-8D61-C5EECF348F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC25504-0A6C-45D1-8D61-C5EECF348F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC25504-0A6C-45D1-8D61-C5EECF348F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F856EB-5774-48C1-A4F7-0249DFA136AF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AC516D-E268-41A2-8A31-6A43AB8DBCAF}|Projectaccessla\\Project.Pl.csproj|c:\\users\\pc\\documents\\projects asp11\\project\\projectaccessla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AC516D-E268-41A2-8A31-6A43AB8DBCAF}|Projectaccessla\\Project.Pl.csproj|solutionrelative:projectaccessla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AC516D-E268-41A2-8A31-6A43AB8DBCAF}|Projectaccessla\\Project.Pl.csproj|c:\\users\\pc\\documents\\projects asp11\\project\\projectaccessla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7AC516D-E268-41A2-8A31-6A43AB8DBCAF}|Projectaccessla\\Project.Pl.csproj|solutionrelative:projectaccessla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AC516D-E268-41A2-8A31-6A43AB8DBCAF}|Projectaccessla\\Project.Pl.csproj|c:\\users\\pc\\documents\\projects asp11\\project\\projectaccessla\\project.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7AC516D-E268-41A2-8A31-6A43AB8DBCAF}|Projectaccessla\\Project.Pl.csproj|solutionrelative:projectaccessla\\project.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AC516D-E268-41A2-8A31-6A43AB8DBCAF}|Projectaccessla\\Project.Pl.csproj|c:\\users\\pc\\documents\\projects asp11\\project\\projectaccessla\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AC516D-E268-41A2-8A31-6A43AB8DBCAF}|Projectaccessla\\Project.Pl.csproj|solutionrelative:projectaccessla\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD1E11B-FBE1-4677-B027-6E0968CAA85A}|ProjectDAL\\Project.DAL.csproj|c:\\users\\pc\\documents\\projects asp11\\project\\projectdal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD1E11B-FBE1-4677-B027-6E0968CAA85A}|ProjectDAL\\Project.DAL.csproj|solutionrelative:projectdal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80650B-CD3C-455D-B681-58D84B527E63}|Project.Bl\\Project.Bl.csproj|c:\\users\\pc\\documents\\projects asp11\\project\\project.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80650B-CD3C-455D-B681-58D84B527E63}|Project.Bl\\Project.Bl.csproj|solutionrelative:project.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD1E11B-FBE1-4677-B027-6E0968CAA85A}|ProjectDAL\\Project.DAL.csproj|c:\\users\\pc\\documents\\projects asp11\\project\\projectdal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD1E11B-FBE1-4677-B027-6E0968CAA85A}|ProjectDAL\\Project.DAL.csproj|solutionrelative:projectdal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\Projectaccessla\\appsettings.json",
+              "RelativeDocumentMoniker": "Projectaccessla\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\Projectaccessla\\appsettings.json",
+              "RelativeToolTip": "Projectaccessla\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T09:03:08.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.Pl.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\Projectaccessla\\Project.Pl.csproj",
+              "RelativeDocumentMoniker": "Projectaccessla\\Project.Pl.csproj",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\Projectaccessla\\Project.Pl.csproj",
+              "RelativeToolTip": "Projectaccessla\\Project.Pl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T09:02:58.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\Projectaccessla\\Program.cs",
+              "RelativeDocumentMoniker": "Projectaccessla\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\Projectaccessla\\Program.cs",
+              "RelativeToolTip": "Projectaccessla\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:14:01.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\ProjectDAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectDAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\ProjectDAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectDAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:12:29.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\Projectaccessla\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Projectaccessla\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\Projectaccessla\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Projectaccessla\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T10:43:26.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\Project.Bl\\Class1.cs",
+              "RelativeDocumentMoniker": "Project.Bl\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\Project.Bl\\Class1.cs",
+              "RelativeToolTip": "Project.Bl\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T10:42:34.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\ProjectDAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProjectDAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\Project\\ProjectDAL\\Models\\Category.cs",
+              "RelativeToolTip": "ProjectDAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:40:00.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

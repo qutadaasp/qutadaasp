@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\Projects asp11\Project\Projectaccessla\obj\Debug\net9.0\Project.Pl.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Projects asp11\Project\Projectaccessla\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\PC\Documents\Projects asp11\Project\Projectaccessla\obj\Debug\net9.0\Project.Pl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Projects asp11\Project\Projectaccessla\obj\Debug\net9.0\Project.Pl.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Projects asp11\Project\Projectaccessla\obj\Debug\net9.0\Project.Pl.AssemblyInfo.cs
+C:\Users\PC\Documents\Projects asp11\Project\Projectaccessla\obj\Debug\net9.0\Project.Pl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projects asp11\Project\Projectaccessla\obj\Debug\net9.0\Project.Pl.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Documents\Projects asp11\Project\Projectaccessla\obj\Debug\net9.0\Project.Pl.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\dto\\response\\categoriesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\dto\\response\\categoriesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\dto\\response\\categorytranslationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\dto\\response\\categorytranslationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\dto\\requests\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\dto\\requests\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\dto\\requests\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\dto\\requests\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\models\\categoy\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\models\\categoy\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\models\\categoy\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\models\\categoy\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\sharedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\sharedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\resources\\sharedresource.ar.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\resources\\sharedresource.ar.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|c:\\users\\pc\\documents\\projects asp11\\kashop\\kashop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E544AC36-B053-4B89-8209-24857BA0E680}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryTranslationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\DTO\\Response\\CategoryTranslationResponse.cs",
+              "RelativeDocumentMoniker": "KASHOP\\DTO\\Response\\CategoryTranslationResponse.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\DTO\\Response\\CategoryTranslationResponse.cs",
+              "RelativeToolTip": "KASHOP\\DTO\\Response\\CategoryTranslationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:00:52.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Models\\Categoy\\CategoryTranslation.cs",
+              "RelativeDocumentMoniker": "KASHOP\\Models\\Categoy\\CategoryTranslation.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Models\\Categoy\\CategoryTranslation.cs",
+              "RelativeToolTip": "KASHOP\\Models\\Categoy\\CategoryTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:29:57.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "KASHOP\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "KASHOP\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:38:19.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\DTO\\requests\\CategoryRequestDTO.cs",
+              "RelativeDocumentMoniker": "KASHOP\\DTO\\requests\\CategoryRequestDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\DTO\\requests\\CategoryRequestDTO.cs",
+              "RelativeToolTip": "KASHOP\\DTO\\requests\\CategoryRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:48:55.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\DTO\\Response\\CategoriesResponseDTO.cs",
+              "RelativeDocumentMoniker": "KASHOP\\DTO\\Response\\CategoriesResponseDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\DTO\\Response\\CategoriesResponseDTO.cs",
+              "RelativeToolTip": "KASHOP\\DTO\\Response\\CategoriesResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:57:21.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryTranslationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\DTO\\requests\\CategoryTranslationRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP\\DTO\\requests\\CategoryTranslationRequest.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\DTO\\requests\\CategoryTranslationRequest.cs",
+              "RelativeToolTip": "KASHOP\\DTO\\requests\\CategoryTranslationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:44:53.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Program.cs",
+              "RelativeDocumentMoniker": "KASHOP\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Program.cs",
+              "RelativeToolTip": "KASHOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:06:37.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Models\\Categoy\\Category.cs",
+              "RelativeDocumentMoniker": "KASHOP\\Models\\Categoy\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Models\\Categoy\\Category.cs",
+              "RelativeToolTip": "KASHOP\\Models\\Categoy\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:10:05.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\appsettings.json",
+              "RelativeDocumentMoniker": "KASHOP\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\appsettings.json",
+              "RelativeToolTip": "KASHOP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T11:33:48.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "KASHOP\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "KASHOP\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:57:24.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SharedResource.ar.resx",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Resources\\SharedResource.ar.resx",
+              "RelativeDocumentMoniker": "KASHOP\\Resources\\SharedResource.ar.resx",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Resources\\SharedResource.ar.resx",
+              "RelativeToolTip": "KASHOP\\Resources\\SharedResource.ar.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-07T17:16:19.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SharedResource.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\SharedResource.cs",
+              "RelativeDocumentMoniker": "KASHOP\\SharedResource.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\SharedResource.cs",
+              "RelativeToolTip": "KASHOP\\SharedResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:37:38.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "KASHOP\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Models\\BaseModel.cs",
+              "RelativeToolTip": "KASHOP\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:21:17.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KASHOP\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Projects asp11\\KASHOP\\KASHOP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KASHOP\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T08:11:23.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
